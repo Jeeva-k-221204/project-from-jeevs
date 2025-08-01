@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[]args){
-        System.out.println("hi to class");
-         System.out.println("hi to me");
+        System.out.println("hi");
+         System.out.println("paps");
+         System.out.println("how are you");
     }
 }
